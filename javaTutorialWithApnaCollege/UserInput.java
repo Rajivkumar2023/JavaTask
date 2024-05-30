@@ -1,7 +1,7 @@
 import java.util.*;
 
-public class UserInput{  
-	public static void main (String[] args) { 
+public class UserInput{
+	public static void main (String[] args) {
 	///// User input a String
 
 	//System.out.print("Enter a String ");
