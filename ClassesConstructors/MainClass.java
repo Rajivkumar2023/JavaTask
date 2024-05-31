@@ -7,8 +7,6 @@ public class MainClass {
 	Dog d2 = new Dog();
 	d2.name = "CP";
 	d2.wark();
-	
-
 }
 }
 
